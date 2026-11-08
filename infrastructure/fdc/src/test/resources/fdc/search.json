@@ -1,0 +1,41 @@
+{
+  "totalHits": 2,
+  "currentPage": 1,
+  "totalPages": 1,
+  "foods": [
+    {
+      "fdcId": 748967,
+      "description": "Eggs, Grade A, Large, egg whole",
+      "dataType": "Foundation",
+      "foodNutrients": [
+        { "nutrientId": 1003, "nutrientName": "Protein", "unitName": "G", "value": 12.4 },
+        { "nutrientId": 1004, "nutrientName": "Total lipid (fat)", "unitName": "G", "value": 9.96 },
+        { "nutrientId": 1005, "nutrientName": "Carbohydrate, by difference", "unitName": "G", "value": 0.96 },
+        { "nutrientId": 1008, "nutrientName": "Energy", "unitName": "KCAL", "value": 148 }
+      ],
+      "foodMeasures": [
+        { "disseminationText": "1 large", "gramWeight": 50.3, "id": 1 },
+        { "disseminationText": "Quantity not specified", "gramWeight": 50.3, "id": 2 }
+      ]
+    },
+    {
+      "fdcId": 2117388,
+      "description": "PROTEIN BAR, COOKIES & CREAM",
+      "dataType": "Branded",
+      "brandOwner": "Quest Nutrition, LLC",
+      "servingSize": 60,
+      "servingSizeUnit": "g",
+      "householdServingFullText": "1 bar",
+      "foodNutrients": [
+        { "nutrientId": 1003, "nutrientName": "Protein", "unitName": "G", "value": 35.0 },
+        { "nutrientId": 1008, "nutrientName": "Energy", "unitName": "KCAL", "value": 317 }
+      ]
+    },
+    {
+      "fdcId": 999,
+      "description": "No energy value here",
+      "dataType": "Branded",
+      "foodNutrients": [ { "nutrientId": 1003, "nutrientName": "Protein", "unitName": "G", "value": 1.0 } ]
+    }
+  ]
+}

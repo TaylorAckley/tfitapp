@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TFit" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/concrete</item>
+        <item name="android:windowSplashScreenBackground">@color/concrete</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/concrete</item>
+    </style>
+</resources>

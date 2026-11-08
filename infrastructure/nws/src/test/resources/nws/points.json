@@ -1,0 +1,9 @@
+{
+  "properties": {
+    "gridId": "SEW",
+    "gridX": 124,
+    "gridY": 67,
+    "forecast": "https://api.weather.gov/gridpoints/SEW/124,67/forecast",
+    "forecastHourly": "https://api.weather.gov/gridpoints/SEW/124,67/forecast/hourly"
+  }
+}

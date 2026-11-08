@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mirrors TFitColors.concrete in Theme.kt; used only where Compose is not yet on screen. -->
+    <color name="concrete">#E8E9E5</color>
+</resources>

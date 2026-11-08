@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+.kotlin/
+# Local machine
+local.properties
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Local MCP config
+.mcp.json
+# Android
+*.apk
+*.aab
+captures/
+# Secrets never live here, but belt and braces
+*.keystore
+*.jks

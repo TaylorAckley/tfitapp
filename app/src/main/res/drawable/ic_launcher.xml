@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Concrete square, three chalk lines of increasing length (the lines course), the far mark in signal orange. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#1F2326" android:pathData="M0,0h108v108h-108z" />
+    <path android:fillColor="#FBFBF9" android:pathData="M28,36h20v6h-20z M28,51h34v6h-34z" />
+    <path android:fillColor="#E8540F" android:pathData="M28,66h52v6h-52z" />
+</vector>

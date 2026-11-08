@@ -1,0 +1,31 @@
+{
+  "properties": {
+    "updated": "2026-09-19T15:00:00+00:00",
+    "periods": [
+      {
+        "number": 1,
+        "startTime": "2026-09-19T17:00:00-07:00",
+        "endTime": "2026-09-19T18:00:00-07:00",
+        "temperature": 72,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": { "unitCode": "wmoUnit:percent", "value": 10 },
+        "relativeHumidity": { "unitCode": "wmoUnit:percent", "value": 55 },
+        "windSpeed": "5 to 10 mph",
+        "windDirection": "NW",
+        "shortForecast": "Mostly Sunny"
+      },
+      {
+        "number": 2,
+        "startTime": "2026-09-19T18:00:00-07:00",
+        "endTime": "2026-09-19T19:00:00-07:00",
+        "temperature": 70,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": { "unitCode": "wmoUnit:percent", "value": null },
+        "relativeHumidity": { "unitCode": "wmoUnit:percent", "value": 58 },
+        "windSpeed": "8 mph",
+        "windDirection": "NW",
+        "shortForecast": "Mostly Clear"
+      }
+    ]
+  }
+}

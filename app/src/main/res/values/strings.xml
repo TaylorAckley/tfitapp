@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TFit</string>
+    <string name="timer_channel_name">Timer</string>
+    <string name="timer_channel_description">Ongoing interval timer</string>
+</resources>
