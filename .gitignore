@@ -4,10 +4,15 @@ build/
 .kotlin/
 # Local machine
 local.properties
+# Log/OS files
+*.log
 # IDE
 .idea/
 *.iml
 .vscode/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
 
 # Local MCP config
 .mcp.json
@@ -15,6 +20,12 @@ local.properties
 *.apk
 *.aab
 captures/
+.externalNativeBuild/
+.cxx/
+output-metadata.json
+*.hprof
+# Google Services (e.g. APIs or Firebase)
+google-services.json
 # Secrets never live here, but belt and braces
 *.keystore
 *.jks
